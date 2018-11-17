@@ -1,4 +1,5 @@
 *{
+    font-family: 'Segoe UI',SegoeUI,'Microsoft JhengHei',微軟正黑體,"Helvetica Neue",Helvetica,Arial,sans-serif;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -12,12 +13,13 @@
 
 
 .top{
-    font-family: 'Segoe UI',SegoeUI,'Microsoft JhengHei',微軟正黑體,"Helvetica Neue",Helvetica,Arial,sans-serif;
     width: 100%;
     margin: 0 auto;
     text-align: center;
 }
 .logo h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
     letter-spacing: .1em;
     color: #555555;
     font-size: 30px;
@@ -35,6 +37,7 @@
     font-size: 24px;
 }
 .top span{
+    font-family: 'Playfair Display', serif;
     font-size: 18px;
     display: block;
     color: #555;
@@ -70,6 +73,7 @@
     width: 100%;
 }
 .item h3{
+    font-family: 'Playfair Display', serif;
     padding: 30px 0 10px 0;
     font-size: 30px;
     color:#4caf50;
@@ -89,6 +93,7 @@
     padding: 60px;
 }
 .about_txt h3{
+    font-family: 'Playfair Display', serif;
     padding: 30px 0 30px 0;
     font-size: 30px;
     color:#4caf50;
@@ -114,7 +119,6 @@
 }
 /* 最底下 */
 .footer{
-    font-family:微軟正黑體;
     padding: 10px;
     position:fixed;
     text-align: center;
