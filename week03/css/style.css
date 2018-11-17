@@ -133,14 +133,17 @@
     .logo h1{
         font-size: 20px;
     }
+    .top .navbar{
+        padding: 5px 0 0 0;
+    }
     .top li{
         width:100%;
-        font-size: 20px;
+        font-size: 18px;
         margin: 0 0 0 -5px;
         border-bottom: 1px dotted #555;
     }
     .top span{
-        margin: 5px 0 5px 10px;
+        margin: 1px 0 1px 10px;
         display: inline-block;
         border-bottom:1px solid transparent; 
     }
@@ -148,10 +151,11 @@
         height: auto; 
     }
     .main .service .item{
-        width: 100%;
-        padding: 10px 20px 10px 10px;
+        width: 90%;
+        padding: 5% 0% 05% 10%;
     }
     .main .about{    
+        padding-bottom: 20px;
         background-size: 100%;
         height: auto;
     }
