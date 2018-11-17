@@ -154,26 +154,27 @@
         width: 90%;
         padding: 5% 0% 05% 10%;
     }
-    .main .about{    
-        padding-bottom: 20px;
-        background-size: 100%;
-        height: auto;
+    .main .about{  
+        padding-bottom: 10px;  
+        background-size:cover ;
     }
     .about .about_txt{
-        width: 90%;
-        margin-left: 0%;
-        padding: 20px;
-        margin: 5%;
+        width: 95%;
+        margin-left: 2.5%;
         text-align: center;
     }
     .about_txt h3{
-        padding: 30px 0 10px 0;
+        padding: 10px 0 10px 0;
         font-size: 20px;
+        color: #c8e6c9;
+    }
+    .about_txt i{
+        color: #c8e6c9;
     }
     .about_txt p{
         font-size: 14px;
         padding: 20px;
-        color: #fff;
+        color: #c8e6c9;
         background-color:rgba(38, 88, 40, .5);
     }
     .photo .img{
